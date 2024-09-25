@@ -1,0 +1,7 @@
+## Interface: 30403
+## Title : Tusk
+## Notes: Tusk
+## Author: Wolfina
+## SavedVariables: TuskDB
+Tusk.xml
+Tusk.lua
